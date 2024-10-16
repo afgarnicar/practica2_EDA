@@ -9,4 +9,4 @@ Ram: 16,0 GB
 Sistema: Windows 11 Pro
 IDE: IntelliJ Version: 21 Oracle OpenJDK version 21.0.2
 
-Link Video: https://youtu.be/OWLLs8CBFEA
+Link Video: https://www.youtube.com/watch?v=KvphJ5eGKdw
